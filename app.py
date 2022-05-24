@@ -1,8 +1,8 @@
 import streamlit as st
+from fbprophet import Prophet
 
 def main():
     pass
-
 
 
 
